@@ -7,12 +7,12 @@
 	define('APP_PATH', 'https://your_sendy_installation_url');
 	
 	/*  MySQL database connection credentials (please place values between the apostrophes) */
-	$dbHost = ''; //MySQL Hostname
-	$dbUser = ''; //MySQL Username
-	$dbPass = ''; //MySQL Password
-	$dbName = ''; //MySQL Database Name
-	
-	
+	$dbHost = 'localhost';
+	$dbUser = 'mbrain';
+	$dbPass = 'S3ndy!P@ssw0rd2025';
+	$dbName = 'sendy_db';
+
+
 	//----------------------------------------------------------------------------------//	
 	//								  OPTIONAL SETTINGS
 	//----------------------------------------------------------------------------------//	
